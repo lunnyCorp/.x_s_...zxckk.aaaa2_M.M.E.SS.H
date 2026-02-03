@@ -1,149 +1,0 @@
-<roblox!‰ÿ
-
-      /           META$   "       ð      ExplicitAutoJoints   trueINST          ð       Folder       PINST   6       ÿ      Frame 	  
-INST.   _       ÿ   
-   ImageLabel   %ð
-INST          ð
-   	   ScreenGui        INST#   7       ÿ   
-   TextButton    €
-INST"   6       ÿ   	   TextLabel    €INST#   !       ð      UIListLayout          BPROP"           ð       AttributesSerialize    PROP          ð       Capabilities!        PROP          ð       DefinesCapabilities PROP&   $       ð       Name   PaddinglessBehavoirPROP           ð    
-   SourceAssetId       PROP          ð       Tags    PROP          ð	      Active       PROP3   \       ñ   
-   AnchorPoint
- ~     @~   $ P     PROP)   @       ð      AttributesSerialize  	P     PROP           ð      AutoLocalizePROP"   :       ÿ   
-   AutomaticSize  
-P     PROPa   …       õ      BackgroundColor3|~|}|}~ÙË1 =1 =Ë	 •ÚÌ2 >2 >Ì$ "ñÁ$ Á	 "òÂ$ $Â}H "
-•$ •	 –2 >2 >–PROP:   C       ð      BackgroundTransparency{   #™  	 š        PROP@          ô       BorderColor3{ ± ´ | Q R # -|© ¬¬¬¬¬¬¬¬¬PROP   7       ÿ   
-   BorderMode  
-P     PROP'   <       ÿ
-      BorderSizePixel  €  PROP!   ]       ÿ       Capabilities!  /P     PROP$   "       ð      ClipsDescendants        PROP'   %       ð      DefinesCapabilities         PROP          ð   	   Draggable         PROP           ð      InteractablePROP"   8       ÿ   
-   LayoutOrder  	p 
-  PROPr   Š       ø      Name   CharacterFrame
- !s
- ð
-estSlider   ReplicateButtonK @Tick8   )  X  Ex)  it ( °    CreditFPROP*   >       ÿ      NextSelectionDown           PROP*   >       ÿ      NextSelectionLeft           PROP+   ?       ÿ
-      NextSelectionRight           PROP(   <       ÿ
-      NextSelectionUp           PROPZ   ¡       ð       Position z~~  @™ 3   	 @š 4  P ~   3~  â $ \	  
-oc 	c 	# 
-€ (  (   PROP.   B       ÿ      RootLocalizationTable           PROP   5       ÿ      Rotation  
-P     PROP          ð
-   
-   Selectable         PROP*   B       ÿ      SelectionBehaviorDown  
-P     PROP*   B       ÿ      SelectionBehaviorLeft  
-P     PROP+   C       ÿ      SelectionBehaviorRight  
-P     PROP(   @       ÿ      SelectionBehaviorUp  
-P     PROP"           ð      SelectionGroup         PROP-   A       ÿ      SelectionImageObject           PROP#   ;       ÿ	      SelectionOrder  
-P     PROPK          ð      Size   ~  A   f 	    0  q  T 6 
-B   ";
-66
-66¸PROP#   ;       ÿ	      SizeConstraint  
-P     PROP&   ^       ÿ   
-   SourceAssetId  +PROP   2       ÿ       Style  
-P     PROP   1       À      Tags  	P     PROP          ð
-       Visible  PROP   3       ÿ      ZIndex   (PROP   !       à      Active  P     PROP9   ¤       ó   
-   AnchorPoint
-  ~   'P  ?   P     PROP(   d       ÿ      AttributesSerialize  /P     PROP    '       ø       AutoLocalize PPROP"   ^       ÿ   
-   AutomaticSize  /P     PROP5   ñ       ý
-      BackgroundColor3   "
-G G "H 1P     PROP/   g       ü      BackgroundTransparency   P     PROPR   í       ü      BorderColor3 { , ±   ´ , | , Q   R H  ©   7© ¬ P¬¬¬¬¬PROP   [       ÿ   
-   BorderMode  /P     PROP$   `       ÿ
-      BorderSizePixel  /P     PROP!   ¥       ÿ       Capabilities!  wP     PROP%   +       ð	      ClipsDescendants  P     PROP(   .       ð      DefinesCapabilities  P     PROP   $       ð   	   Draggable  P     PROP¤   6      ÿ-      Image*   http://www.roblox.com/asset/?id=4280494932. _22108. @Ÿ645592841\ ¯5035647017. ?Š . ¸ žp¸ Hæ J¸  ² q   rbxûàid://692143006PROPf   ì       û    
-   ImageColor3y~ ;o   +p  H +A‹   qBŒŒŽŒŒŽ _ŽŒŽŒŽH  +§   ð„¨¨ª¨¨ªª¨¨ªªª¨ª¨ª PROP$   ¨       ÿ
-      ImageRectOffset
-  wP     PROP#   ¦       ð   
-   ImageRectSize  uP     PROP3   b       ü
-      ImageTransparency~  ½ - p ¤ P     PROP    '       ø       Interactable PPROP    \       ÿ   
-   LayoutOrder  /P     PROPV   Í       ÿ      Name
-   Background    Overlay
-  8 DPipe & 
-  R 
- 4  ²  ImageLabelPROP*   b       ÿ      NextSelectionDown  "6 P     PROP*   b       ÿ      NextSelectionLeft  "6 P     PROP+   c       ÿ
-      NextSelectionRight  "6 P     PROP(   `       ÿ
-      NextSelectionUp  "6 P     PROPk   1      ð
-      Position     zz  ~	     ÊÊ  (ÀÀ    ……     Zÿ    
-~ $H   PROP!   ]       ÿ       ResampleMode  /P    PROP.   f       ÿ      RootLocalizationTable  "6 P     PROP   Y       ÿ      Rotation  /P     PROP,   Z       ÿ   	   ScaleType  "ð     PROP   %       ð   
-   Selectable  P     PROP*   f       ÿ      SelectionBehaviorDown  /P     PROP*   f       ÿ      SelectionBehaviorLeft  /P     PROP+   g       ÿ      SelectionBehaviorRight  /P     PROP(   d       ÿ      SelectionBehaviorUp  /P     PROP#   )       ð       SelectionGroup  P     PROP-   e       ÿ      SelectionImageObject  "6 P     PROP#   _       ÿ	      SelectionOrder  /P     PROPk   -      í      Size        €	     pp  (¤¤  G   	    Mà    
-  #ð
-
-
-
- PROP#   _       ÿ	      SizeConstraint  /P    PROPb   4      ð
-   
-   SliceCenter ‚‚‚  ‚‚  Q  ÀÀ       ? H 1"ƒƒH ƒQ ‚
- "  ~     H /P     PROP#   [       ý   
-   SliceScale   P     PROP&   ¦       ÿ   
-   SourceAssetId  j PPROP   U       ï      Tags  /P     PROP9   1      ü      TileSize     #G G # #@7 #
- 	H P     PROP   "       ø       Visible PPROP)   W       ÿ      ZIndex  "ð,*,*PROP"           ð      AttributesSerialize    PROP          ð       AutoLocalizePROP          ð      Capabilities!        PROP           ð      ClipToDeviceSafeAreaPROP          ð      DefinesCapabilities PROP          ð
-      DisplayOrder   PROP          ð       Enabled PROP          ð       Name   bwguiPROP          ð       ResetOnSpawn PROP$   "       ð      RootLocalizationTable   PROP$   "       ð      SafeAreaCompatibility   PROP          ð
-      ScreenInsets   PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP          ð      ZIndexBehavior    PROP          ð      ActivePROP*   T       ÿ	   
-   AnchorPoint
-~ ~  	?~~~! P     PROP(   <       ÿ      AttributesSerialize   P     PROP"           ð      AutoButtonColorPROP          ð      AutoLocalizePROP"   6       ÿ   
-   AutomaticSize   P     PROPo   y       õ      BackgroundColor3}}~~{ é é {{Ñ ðì ì ||Ô~}~}}}~ýý ™™Cþþ À„ „  œœD~~~~  „'!'! ™™ç €("(" œœêPROP1   ?       ð      BackgroundTransparency _     P     PROPe   u       ð      BorderColor3~~~~{~~~yyyy±  €zzzz´zzz  |~~~ééééQ  ðêêêêRêêê|    ©  P ¬   PROP   3       ÿ   
-   BorderMode   P     PROP$   8       ÿ
-      BorderSizePixel   P    PROP!   U       ÿ       Capabilities!  'P     PROP#   !       ð      ClipsDescendants        PROP&   $       ð      DefinesCapabilities        PROP          ð
-   	   Draggable        PROPe         ÿ6      FontFace ,   rbxasset://fonts/families/SourceSansPro.json *3 	* Ï-Regular.ttfa ÿÿ‘Pr.ttfPROP)   :       ÿ      HoverHapticEffect  €       PROP          ð      InteractablePROP#   4       ÿ   
-   LayoutOrder  € PROP"   3       ó   
-   LineHeight   P     PROP0   D       ÿ      LocalizationMatchIdentifier   P     PROP2   F       ÿ      LocalizationMatchedSourceText   P     PROP+   <       ÿ      MaxVisibleGraphemes  €PROP          ð       Modal        PROPG   [       @    ð Name   Button
- `Toggle
-  °    ClickMe< DKofi °    TwitterPROP)   :       ÿ      NextSelectionDown  €       PROP)   :       ÿ      NextSelectionLeft  €       PROP*   ;       ÿ
-      NextSelectionRight  €       PROP'   8       ÿ
-      NextSelectionUp  €       PROP%   9       ÿ
-      OpenTypeFeatures   P     PROPc   ‘       ð      Position   0~~~  0  £ A   × c  
-  ~   0³ ³  A 3 3 14 4  ' '     €      PROP)   :       ÿ      PressHapticEffect  €       PROP          ð
-      RichText       PROP-   >       ÿ      RootLocalizationTable  €       PROP   1       ð      Rotation  P     PROP          ð   
-   SelectablePROP          ð
-      Selected        PROP*   >       ÿ      SelectionBehaviorDown   P     PROP*   >       ÿ      SelectionBehaviorLeft   P     PROP+   ?       ÿ      SelectionBehaviorRight   P     PROP(   <       ÿ      SelectionBehaviorUp   P     PROP!          ð      SelectionGroup        PROP,   =       ÿ      SelectionImageObject  €       PROP#   7       ÿ	      SelectionOrder   P     PROP;          @    ÀSize           
-
- ½ ðð    €.. 4 4PROP#   7       ÿ	      SizeConstraint   P    PROP%   V       ÿ   
-   SourceAssetId  $€PROP   .       ÿ       Style   P     PROP   -       @    oTags   P     PROPn   o       @    ð
-Text       Apply To Others À   Explicit P     ðBuy me a Ko-Fi   â˜•   Follow my Twitter    PROP*   s       ð	   
-   TextColor3     (P     PROP"   6       ÿ   
-   TextDirection   P     PROP          ð   
-   TextScaled        PROP$   1       ó      TextSize‚ À   P     PROP%   y       ÿ
-      TextStrokeColor3  GP     PROP<   ?       ð      TextStrokeTransparency~~~~~~~3333   €4444 444PROP&   9       ð	      TextTransparency  P     PROP!   5       ÿ       TextTruncate   P     PROP          ð
-   
-   TextWrapped PROP&   7       ÿ	      TextXAlignment  €  PROP&   7       ÿ	      TextYAlignment  €PROP          ð	       VisiblePROP   /       ÿ      ZIndex  €
-***PROP          ð      Active        PROP,   T       ñ
-   
-   AnchorPoint
-~~~     P     PROP(   <       ÿ      AttributesSerialize   P     PROP          ð      AutoLocalizePROP"   6       ÿ   
-   AutomaticSize   P     PROP5   y       ó
-      BackgroundColor3       	P     PROP.   ?       ó      BackgroundTransparency   P     PROP?   u       ó       BorderColor3{ ± ´ | Q R  +|© €¬¬¬¬¬¬¬¬PROP   3       ÿ   
-   BorderMode   P     PROP'   8       ÿ
-      BorderSizePixel  €PROP!   U       ÿ       Capabilities!  'P     PROP#   !       ð      ClipsDescendants        PROP&   $       ð      DefinesCapabilities        PROP          ð
-   	   Draggable        PROP   >      ÿ6      FontFace ,   rbxasset://fonts/families/SourceSansPro.json¼ '3 	* Ÿ-Bold.ttf^ 0  7 T ¼m n 7 ':H˜MP     PROP          ð      InteractablePROP"   4       ÿ   
-   LayoutOrder  p     PROP"   3       ó   
-   LineHeight   P     PROP0   D       ÿ      LocalizationMatchIdentifier   P     PROP2   F       ÿ      LocalizationMatchedSourceText   P     PROP+   <       ÿ      MaxVisibleGraphemes  €PROPF   `       Ð      Name
- ^Title	 Ù	   TextLabel
- ¡   Credit
- ð opied   CreditPROP)   :       ÿ      NextSelectionDown  €       PROP)   :       ÿ      NextSelectionLeft  €       PROP*   ;       ÿ
-      NextSelectionRight  €       PROP'   8       ÿ
-      NextSelectionUp  €       PROP%   9       ÿ
-      OpenTypeFeatures   P     PROPN   ‘       ñ       Position ~~~    Ì     â     3  ™™ `šš   4,  "€    
- PROP          ð
-      RichText       PROP-   >       ÿ      RootLocalizationTable  €       PROP   1       ÿ      Rotation   P     PROP          ð   
-   Selectable        PROP*   >       ÿ      SelectionBehaviorDown   P     PROP*   >       ÿ      SelectionBehaviorLeft   P     PROP+   ?       ÿ      SelectionBehaviorRight   P     PROP(   <       ÿ      SelectionBehaviorUp   P     PROP!          ð      SelectionGroup        PROP,   =       ÿ      SelectionImageObject  €       PROP#   7       ÿ	      SelectionOrder   P     PROP7          ð
-      Size ~~~~~ÌÌÌ   Ì 	 o     ><  <PROP#   7       ÿ	      SizeConstraint   P     PROP%   V       ÿ   
-   SourceAssetId  $€PROP   -       ï      Tags   P     PROP•  ¢      ð$      Text   Body Configuration
-   Chest Scale
-% #ut s   âœ“  !+ ðMreated By Ukiyo (Remade by a6j8)   (Copied To Clipboard)  <font size = "15"><b>Hey!</b></ ð#>
-Thanks for checking this out, hopefully it didn'  òssapoint!~
-Feel free toA  9 à any of the li` ñbelow, a visit or donð would be appriciò ð~ Have Fun!
-
-(Oh, and iR °is was soldt ðyou, you've been <b><i>scammed</i></b>, Oof.)PROPZ   s       ô   
-   TextColor3~~~~|õ  õõ Ëa ‘ö  öö Îb 1~|  !Ëa   $Îb@ „½  ½½ Ëa €¾  ¾¾ ÎbPROP"   6       ÿ   
-   TextDirection   P     PROP          ð   
-   TextScaled       PROP,   1       ö      TextSizeƒƒƒ‚‚ƒƒ‚   ÀÀ  €  P     PROPA   y       ó
-      TextStrokeColor3|    |    1 €22222222PROP1   ?       ð      TextStrokeTransparency~ N   P     PROP5   9       ð      TextTransparency{{{  ~  ™™™   €ššš     PROP!   5       ÿ       TextTruncate   P     PROP          ð
-   
-   TextWrappedPROP&   7       ÿ	      TextXAlignment  €PROP&   7       ÿ	      TextYAlignment  €PROP          ð	       Visible PROP   /       ÿ      ZIndex  €**PROP&   $       ð      AttributesSerialize        PROP    %       ö       Capabilities!  P     PROP           ð      DefinesCapabilities  PROP           ð   
-   FillDirection      PROP&   $       ð      HorizontalAlignment        PROP!          ð      HorizontalFlex        PROP$   "       ð      ItemLineAlignment        PROP'   -       ÷      Name   UIListLayout PayoutPROP           ð        Padding  P   
-PROP          ð
-   	   SortOrder      PROP!   &       ö   
-   SourceAssetId  P   PROP          ð      Tags        PROP$   "       ð      VerticalAlignment        PROP          ð      VerticalFlex        PROP          ð      Wraps  PRNTi   }      ? /  |ò	
-
-
- ÿ):?HE¾ zñ	  
-  "!,
- ð) @?H  
- 	  EEND     	       </roblox>
